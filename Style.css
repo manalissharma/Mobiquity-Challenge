@@ -1,0 +1,136 @@
+body {
+    font-family: helvetica, arial;
+    font-size: 100%;
+    line-height: 1.5;
+    padding: 0;
+    position: relative;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+}
+
+ #page {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background: url(logo/b2.jpg);
+    background-size: auto;
+    clear: both;
+    margin: none;
+    padding: 0;
+    margin: 0px;
+}
+
+ #maincol {
+    position: relative;
+    width: 1025px;
+    height: auto;
+    margin-left: 230px;
+    text-align: left;
+    clear: both;
+    overflow: hidden;
+    margin-top: -30px;
+}
+
+ .xsmall {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: x-small;
+}
+
+ .clip-circle {
+    background-size: 600px 400px;
+    height: 250px;
+    width: 250px;
+    border-radius: 70%;
+    overflow: hidden;
+    margin: auto;
+    position: relative;
+}
+
+ .circle1 {
+    position: relative;
+    left: 340px;
+    top: 100px;
+}
+
+ .circle2 {
+    position: relative;
+    left: 0px;
+    top: -150px;
+}
+
+ .circle3 {
+    position: relative;
+    left: -350px;
+    top: -400px;
+}
+
+ .box-shad {
+    box-shadow: 0 10px 20px #777, 0 0 200px #000 inset, 0 0 150px #000 inset, 0 0 100px #000 inset;
+}
+
+.register {
+    width: 800px;
+    margin: 0px auto;
+    height: 530px;
+    background-color: #fff;
+    padding: 5px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+}
+
+ table {
+    margin-top: 50px;
+    width: 100%;
+}
+
+ th {
+    height: 50px;
+}
+
+ td {
+    text-align: center;
+}
+
+label {
+    float: left;
+    text-align: right;
+    margin-right: 15px;
+    width: 300px;
+    font-family: helvetica, arial;
+}
+
+ h1 {
+    font-family: "Bradley Hand ITC";
+    font-size: 70pt;
+    color: black;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+}
+
+ h2 {
+    font-family: "Bradley Hand ITC";
+    font-size: 45pt;
+    color: black;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+}
+
+ h3 {
+    text-align: right;
+    font-family: "Bradley Hand ITC";
+    font-size: 15pt;
+    color: black;
+    margin-right: 10px;
+}
+
+ h4 {
+    font-family: "Bradley Hand ITC";
+    font-size: 45pt;
+    color: black;
+    font-weight: bold;
+    margin-top: 5px;
+}
